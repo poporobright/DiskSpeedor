@@ -11,6 +11,18 @@ No external dependencies required!
 
 ## How to Run
 
+Run the script:
+
+    Windows:
+    Bash
+
+    python speed_test.py
+
+    macOS / Linux:
+    Bash
+
+    python3 speed_test.py
+
 ### Prerequisites
 Make sure you have **Python 3.x** installed on your system. 
 
